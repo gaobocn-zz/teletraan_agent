@@ -1,0 +1,4 @@
+groups=the_group_specified_by_master
+id=my_id
+hostname=my_hostname
+ip=my_ip
